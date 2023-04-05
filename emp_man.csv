@@ -1,0 +1,51 @@
+Unnamed: 0,EMPLOYEE_ID,MANAGER_ID,REVIEWS,SENTIMENTS
+0,100,100,,0
+1,101,100,I like my job but it could be better.,HAP
+2,102,100,My employees are sad but I can manage.,SAD
+3,103,102,My boss is nice.,EXH
+4,104,103,I am unbiased,NEU
+5,105,103,,0
+6,106,103,,0
+7,107,103,Working environment is not too good but okay.,SAD
+8,108,101,I love my life.,EXH
+9,109,108,,0
+10,110,108,,0
+11,111,108,,0
+12,112,108,,0
+13,113,108,,0
+14,114,100,"Nothing much, just loving it.",EXH
+15,115,114,,0
+16,116,114,,0
+17,117,114,,0
+18,118,114,,0
+19,119,114,,0
+20,120,100,Things get better.,HAP
+21,121,100,The pay is extremely good.,EXH
+22,122,100,"I feel understaffed for now, things can get better.",NEU
+23,123,100,Quite a horrible job.,EXS
+24,124,100,This job has helped me grow.,EXH
+25,125,120,,0
+26,126,120,,0
+27,127,120,,0
+28,128,120,,0
+29,129,121,,0
+30,130,121,,0
+31,131,121,,0
+32,132,121,,0
+33,133,122,,0
+34,134,122,,0
+35,135,122,,0
+36,136,122,,0
+37,137,123,,0
+38,138,123,,0
+39,139,123,,0
+40,140,123,,0
+41,198,124,,0
+42,199,124,I am here to just promote my Youtube channel.,NEU
+43,200,101,I wish I could think faster.,NEU
+44,201,100,I love the freedom we get under the CEO.,EXH
+45,202,201,,0
+46,203,101,I have been abused.,SAD
+47,204,101,"I'd  like to keep my job please, so I will say the boss is good.",HAP
+48,205,101,The only thing I look forward to is a good and big salary raise.,EXH
+49,206,205,I am bored of this company.,EXS
